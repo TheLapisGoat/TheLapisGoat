@@ -11,8 +11,8 @@ I'm Sourodeep Datta, a 3<sup>rd</sup> year undergraduate at IIT Kharagpur in the
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLapisGoat&count_private=true&show_icons=true&theme=github_dark" alt="TheLapisGoat's Github Stats">
+  <img src="https://github-readme-stats-sourodeep-dattas-projects.vercel.app/api?username=TheLapisGoat&count_private=true&show_icons=true&theme=github_dark" alt="TheLapisGoat's Github Stats">
 </p>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLapisGoat&layout=donut&theme=github_dark&langs_count=6">
+ <img src="https://github-readme-stats-sourodeep-dattas-projects.vercel.app/api/top-langs/?username=TheLapisGoat&layout=donut&theme=github_dark&langs_count=6&count_private=true&hide=jupyter%20notebook">
 </p>
