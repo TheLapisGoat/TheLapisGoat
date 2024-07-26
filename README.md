@@ -1,5 +1,6 @@
 # I like computers (づ｡◕‿‿◕｡)づ
 <!---The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.--->
+[hellothere](https://github.com/user-attachments/assets/83c9fa0b-1efa-42a0-934c-a2ac64925210)
 
 I'm Sourodeep Datta, a 4<sup>th</sup> year undergraduate at IIT Kharagpur in the Department of Computer Science and Engineering.
 
