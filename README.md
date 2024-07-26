@@ -1,9 +1,9 @@
-# Hello There 👋
-> The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.
+# I like computers (づ｡◕‿‿◕｡)づ
+<!---The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.--->
 
 I'm Sourodeep Datta, a 4<sup>th</sup> year undergraduate at IIT Kharagpur in the Department of Computer Science and Engineering.
 
-- 🌱 I'm currently interested in Deep Learning, Computer Vision and Statistical Learning Theory
+- 🌱 I'm currently interested in Systems Design and High-Performance Computing
 - 🤝 I'm open to collaborating on anything
 - 📫 Email : sourodeepdatta@gmail.com
 - 🔗 LinkedIn : https://www.linkedin.com/in/sourodeep-datta-795330227/
